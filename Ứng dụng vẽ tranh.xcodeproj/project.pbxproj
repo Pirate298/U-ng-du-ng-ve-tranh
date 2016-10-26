@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		73D119301DC06A0900445183 /* PhotoEffectColectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D1192F1DC06A0900445183 /* PhotoEffectColectionCell.swift */; };
 		73EEE5551DBF55E800D72161 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73EEE5541DBF55E800D72161 /* AppDelegate.swift */; };
 		73EEE5571DBF55E800D72161 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73EEE5561DBF55E800D72161 /* ViewController.swift */; };
 		73EEE55A1DBF55E800D72161 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73EEE5581DBF55E800D72161 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		73D1192F1DC06A0900445183 /* PhotoEffectColectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoEffectColectionCell.swift; sourceTree = "<group>"; };
 		73EEE5511DBF55E800D72161 /* Ứng dụng vẽ tranh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ứng dụng vẽ tranh.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73EEE5541DBF55E800D72161 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73EEE5561DBF55E800D72161 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				73EEE55B1DBF55E800D72161 /* Assets.xcassets */,
 				73EEE55D1DBF55E800D72161 /* LaunchScreen.storyboard */,
 				73EEE5601DBF55E800D72161 /* Info.plist */,
+				73D1192F1DC06A0900445183 /* PhotoEffectColectionCell.swift */,
 			);
 			path = "Ứng dụng vẽ tranh";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				73EEE5571DBF55E800D72161 /* ViewController.swift in Sources */,
 				73EEE5551DBF55E800D72161 /* AppDelegate.swift in Sources */,
+				73D119301DC06A0900445183 /* PhotoEffectColectionCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,7 @@
 				73EEE5651DBF55E800D72161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
